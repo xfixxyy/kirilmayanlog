@@ -1,0 +1,2 @@
+# kirilmayanlog
+Kırılmayanlog
